@@ -73,11 +73,7 @@ Room for improvement:
 - Perfomance and other CNN techniques
 
 To do:
-- Oh.. I discovered (but it was to late) that the goal was to place 
-an aligned bounding box segment around the location of the ships... 
-So I had to use segmentation and masks. With dice score assessment..
-I'm just trying to study how to use this type of architecture yet, so 
-unfortunately couldn't build it in time.. Thank you if you read it..((
+
 
 
 ## Contact
